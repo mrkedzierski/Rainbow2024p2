@@ -7,4 +7,4 @@ Green
 Blue
 Indigo
 Violet
-and a cute little kitty cat and puupy 
+and a cute little kitty cat and puppy 
